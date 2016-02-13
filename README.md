@@ -10,10 +10,10 @@ throughout time.
 
 ### Categories
 
-* [Git](#git)
-* [JavaScript](#javascript)
-* [Mac](#mac)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [Unix](#unix)
 * [Vim](#vim)
+
+---
+
+### Vim
+
+- [Operate on regions of text that match the current search pattern](vim/operate_on_regions_of_text_that_match_the_current_search_pattern.md)
